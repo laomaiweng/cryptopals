@@ -1,0 +1,9 @@
+[package]
+name = "s01c02"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+s01c01 = { path = "../s01c01", version = "0.1" }
